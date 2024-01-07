@@ -111,3 +111,47 @@ main{
     border: 0;
     border-radius: 5px;
 }
+/* footer style */
+.footer-container{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    background-color: black;
+    height: 400px;
+    padding: 130px 200px;
+    gap:0px;
+}
+.new{
+    color:orangered;
+    background-color: white;
+    text-align: right;
+    border-radius: 5px;
+    border: 0;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.box{
+    padding: 10px;
+    border: 2px solid;
+    border-color: beige;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.title{
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.para{
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 15px;
+    width: 485px;
+}
+.footer-head{
+    width: 80%;
+}
