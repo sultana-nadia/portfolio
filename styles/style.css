@@ -68,5 +68,46 @@ main{
 }
 .main-description ul li{
     padding-bottom: 10px;
-
+}
+.head2{
+    text-align: center;
+    font-size:40px;
+    padding-bottom: 80px;
+}
+.plan{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.head3{
+    font-weight: 700;
+}
+.head6{
+    color: darkgrey;
+    font-size: 20px;
+    font-weight: 500;
+}
+.sec2{
+    margin-bottom: 100px;
+}
+.sec3{
+    background-image: url("../images/gradient2.png"), url("../images/watch.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 10px;
+}
+.nadu{
+    padding: 50px 50% 70px 70px;
+}
+.sec3head{
+    color: aliceblue;
+    font-size: 30px;
+}
+.btn{
+    color: orangered;
+    background-color: white;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 5px;
 }
