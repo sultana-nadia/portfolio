@@ -38,3 +38,35 @@ header{
 
 
 }
+/* main section design */
+main{
+    margin:100px 200px;
+}
+.sec1{
+    display: flex;
+    margin-top:200px;
+    gap: 80px;
+    margin-bottom: 150px;
+}
+.picc{
+    height: 650px;
+    width: 500px;
+}
+.main-head{
+    font-size:40px ;
+    padding: right 200px;
+    font-weight: 700;
+}
+.main-description{
+    padding: 180px 80px 100px 70px;
+}
+.main-para{
+    color: rgb(26, 23, 23);
+    font-size: 16px;
+    padding: 15px 0px;
+    font-weight: 400;
+}
+.main-description ul li{
+    padding-bottom: 10px;
+
+}
